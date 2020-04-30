@@ -7,7 +7,7 @@ function switchPilot(persona){
         },
         MIM: {
             name: 'Heather',
-            role: 'Major Incident Manager',
+            role: 'Incident Manager',
             image: './images/2.png'
         },
         ITM: {
