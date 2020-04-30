@@ -10,6 +10,7 @@ body{
     padding: 0px;
     font-family: "Gotham SSm A","Gotham SSm B",Helvetica,Arial,sans-serif;
     font-weight: 400;
+    text-align: center;
 }
 
 html{
@@ -70,12 +71,14 @@ a{
     bottom: 20px;
     margin: 0px;
     padding: 0px;
+    text-align: center;
 }
 
 #personas li{
     display: inline-block;
     margin: 4px;
     padding: 2px;
+    text-align: center;
 }
 
 #openWindow{
