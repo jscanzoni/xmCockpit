@@ -9,8 +9,7 @@ javascript:(function()%7Bwindow.open('https%3A%2F%2Fscnz.co%2FxmCockpit%2F'%2C't
 ```
 
 ## Cloning Instructions:
-1. If you choose to clone this and want to modify the bookmarklet, this is the clean javascript:
-```javascript
+1. If you choose to clone this and want to modify the bookmarklet, this is the clean javascript:```javascript
 window.open('https://scnz.co/xmCockpit/','targetWindow',
 `toolbar=no,
     location=no,
