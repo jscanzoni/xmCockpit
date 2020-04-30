@@ -10,9 +10,9 @@ function switchPilot(persona){
             role: 'Major Incident Manager',
             image: './images/2.png'
         },
-        ENG: {
+        ITM: {
             name: 'Carl',
-            role: 'Engineer',
+            role: 'IT Operations',
             image: './images/3.png'
         },
         DEV: {
