@@ -9,9 +9,10 @@ javascript:(function()%7Bwindow.open('https%3A%2F%2Fscnz.co%2FxmCockpit%2F'%2C't
 ```
 
 ## Cloning Instructions:
-* If you choose to clone this project and want to modify the bookmarklet, 
-  1. modify the following javascript and 
-  1. enter it into this Bookmarklet Maker :https://caiorss.github.io/bookmarklet-maker/
+If you choose to clone this project and want to modify the bookmarklet, 
+1. Modify the following javascript 
+1. Enter it into this [Bookmarklet Maker](https://caiorss.github.io/bookmarklet-maker/)
+
 ```javascript
 window.open('https://scnz.co/xmCockpit/','targetWindow',
 `toolbar=no,
